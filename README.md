@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Sai Prasanth Guthula</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
@@ -28,7 +26,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saiprasanthg&" alt="saiprasanthg" /></p>
 
-
-
-
-                
