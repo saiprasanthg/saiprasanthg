@@ -84,7 +84,6 @@ https://leetcode.com/saiprasanth-guthula/
 ## Connect
 
 LinkedIn  
-https://www.linkedin.com/in/sai-prasanthg/
-
+https://www.linkedin.com/in/prasanthg96/
 Email  
 saiprasanth.guthula@gmail.com
